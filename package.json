@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "3-modules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DungVietLe/nodejs-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DungVietLe/nodejs-learning/issues"
+  },
+  "homepage": "https://github.com/DungVietLe/nodejs-learning#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "lodash": "^4.17.21"
+  }
+}
